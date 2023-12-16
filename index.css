@@ -1,1 +1,11 @@
-
+.responsive {
+    width: 5%;
+    height: auto;
+}
+#bgsettings{
+    background: url(lg2.png) left top no-repeat, url(nba.png) right bottom no-repeat , url(25.png) right top no-repeat;
+    background-color: rgb(227, 233, 233);
+    padding: 42px;
+    background-size: 160px, 110px, 110px;
+    text-shadow: 0ch;
+} 
